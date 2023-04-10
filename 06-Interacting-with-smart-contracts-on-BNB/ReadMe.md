@@ -1,4 +1,4 @@
-# 07: Interacting with BNB Smart Contracts
+# 06: Interacting with BNB Smart Contracts
 
 1. Open `https://remix.ethereum.org/`
 2. Open `https://testnet.bscscan.com/`
